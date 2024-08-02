@@ -22,4 +22,4 @@ and division by number)*, operations for check equality, IO operations, transpos
 
 ## Vector
 My realization of std::vector container.\
-It has the same methods as std::vector has. Also there is an Iterator class to make access due pointers in Vector.
+It has the same methods as std::vector has. Also there is an Iterator class to make access via pointers in Vector.
